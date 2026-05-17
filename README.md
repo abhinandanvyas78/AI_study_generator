@@ -62,5 +62,4 @@ genai.configure(api_key="YOUR_GEMINI_API_KEY")
 Run the Project
 streamlit run personalized_ai.py
 ----
-Open in Browser
-http://localhost:8501
+
